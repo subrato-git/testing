@@ -1,0 +1,29 @@
+button {
+	width: 200px;
+	height: 40px;
+}
+#main{
+	position: fixed;
+	width: 1225px;
+	height: 560px;
+	background-color: #E4154B;
+}
+
+#heading{
+	color:white;
+	margin-left: 520px;
+}
+#button_container{
+	height: 200px;
+	width: 250px;
+	margin-left: 123px;
+	margin-top: 150px;
+	background-color: #119114;
+}
+#upload_container{
+	height: 450px;
+	width: 700px;
+	margin-top: -327px;
+	margin-left: 480px;
+	background-color: #0AEF0A;
+}
